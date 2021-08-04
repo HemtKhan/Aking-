@@ -53,7 +53,7 @@ logo = """
 
 
 
-_   _                _     _  _
+_   _                _     _  _ 
 | | | | _ _  _ | |_  | |/ / |__    _ _ 
 | |_| |/ _ \ '_  _ \| __| | ' /| '_ \ / _ | '_ \
 |  _  |  / | | | | | |_  | . \| | | | (_| | | | |
@@ -65,7 +65,7 @@ _   _                _     _  _
    
 
 --------------------------------------------------
- Author      : Hemtkhan
+ Author      : Hemt khan
  GitHub      : https://github.com/HemtKhan
  YouTube     : Hemtkhan
  Telegram    : @HemtHack
